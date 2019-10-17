@@ -1,0 +1,34 @@
+Release process 
+    Release Versioning format 
+    How frequent release should be 
+
+Development model 
+    Agile or kanban
+    
+
+
+Ticket life cycle 
+    Minimum and maximum time for a ticket development or testing 
+    Ticket stages 
+    Who dose the validation? Same Developer or another developer or test team 
+    Unit test included part of development?
+    Test cases can be automated?
+    Language used for automation 
+
+How to gether a requirement 
+    Arrange a meeting with a client 
+    Discuss with a development team 
+    Discuss with test team
+
+DevOps tools and process 
+    Vcs: Github or gitlab or svn 
+    CI tool: Jenkins or bamboo 
+    Cms tool: ansible or chef or puppet 
+    Cloud: AWS or Azure
+    Code coverage: sonarQube 
+    Automation test: python or selenium 
+
+Wiki page: confluence or gitlab wiki 
+Ticketing tool: Jira 
+
+
