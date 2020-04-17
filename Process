@@ -19,6 +19,9 @@ How to gether a requirement
     Arrange a meeting with a client 
     Discuss with a development team 
     Discuss with test team
+    Have a detailed discussion before deciding the estimation
+    Estimation:
+        If very new requirement then to understand complete technology minimum 5 days without any distrubance from other works
 
 DevOps tools and process 
     Vcs: Github or gitlab or svn 
@@ -45,5 +48,6 @@ AWS CICD delivery/deploymnet design diagram
 
 DevOps security Ops?
 
+Each ticket two person can join together and work faster 
 
 
