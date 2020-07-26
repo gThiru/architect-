@@ -1,0 +1,10 @@
+- Think about open source DevOps projects
+- Try to contribute it bit
+- Try to use it the new technologies
+  - Analyze the security 
+  - Performance
+  - Cost
+  - add ons
+  - support 
+  
+ - Identify the opensource projects
