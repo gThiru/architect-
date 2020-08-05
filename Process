@@ -4,9 +4,27 @@ Release process
 
 Development model 
     Agile or kanban
+    Pairing a engineers for each ticket for fast development
+    Task must me small as much as possible 
+    It shout not be a more than 3 days of work
+    If it cross it then senior enginer has to pair to speed up or to clear a road block
     
 
-
+DevOps:
+    DevOps is not a ONE solution for all but there is a solution for all
+    Because there are multiple choices are there in each segment/stage of CI/CD process
+    As DevOps is an extension of Agile methodology, DevOps itself calls for extension beyond its basic form as well
+    DevOps is the one of the best culture evolved so far because it gives a Unity between different segment of engineers like Dev, QA, Ops, Stakeholders some times client
+    and gives a better communication like a omni directional(accross different team) instead of uni directional communication(with in the team comminication) 
+    A pure celebration will happen at the end/part of product release and it creates strong Unity between engineers
+    More visibility to engineers
+    Speeds up the development, testing and production
+    Everyone will be happy like
+        Developer happy because he delivered his code and he sees the result in live/production environment
+        Customer happy as they are keep getting new functionality and delivering to the market and promoting their feature
+    Makes engineer to focus on a thinner/small/specific functionality instead of concentrating multiple tasks and diverting their time and concentration
+    
+    
 Ticket life cycle 
     Minimum and maximum time for a ticket development or testing 
     Ticket stages 
