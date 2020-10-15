@@ -68,4 +68,26 @@ DevOps security Ops?
 
 Each ticket two person can join together and work faster 
 
+Leave:
+    Leave update plan for team and where are we notifying?
+    
+Wiki/Documentation:
+    Which tool are we using documentation?
+        Confluence? or github?
+        
+Artifact/build binary storage:
+    Artifactory or Nexus or Progen
+    Artifactory - has a dedicated/supported programinng language library
+                Has own database for querying 
+                Query is made easy?
+                Not customisable only we have to select existing language for uploading build binaries or lib/supported files
+                Better UI
+                Developer is Jforg
+    Nexus:
+        User can custamise the repository
+        has minimal dedicated language support
+        Developer is Sonatype
+    Progen:
+        Supported for modern technologies like Data sceience and machine learning
+
 
