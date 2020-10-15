@@ -93,3 +93,5 @@ Artifact/build binary storage:
 Template:
     Document or ppt company template?
 
+Cleanup:
+    VCS(gitlab/github) branches and jenkins jobs
