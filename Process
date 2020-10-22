@@ -41,6 +41,9 @@ How to gether a requirement
     Have a detailed discussion before deciding the estimation
     Estimation:
         If very new requirement then to understand complete technology minimum 5 days without any distrubance from other works
+    Hardwere and softwere requirement
+    Specific versions
+    Dependencies 
 
 DevOps tools and process 
     Vcs: Github or gitlab or svn 
@@ -96,3 +99,7 @@ Template:
 
 Cleanup:
     VCS(gitlab/github) branches and jenkins jobs
+    
+Retro meeting:
+    Monthly or quartily 
+    Team or Squad level
