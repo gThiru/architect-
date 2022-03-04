@@ -1,0 +1,5 @@
+https://www.shodan.io/ - Search Engine for the Internet of Everything
+https://censys.io/ - Best Attack Surface Management for the Cloud
+https://www.netsparker.com/ - APPLICATION SECURITY TESTING FOR ENTERPRISE
+https://www.xenonstack.com/use-cases/jenkins-pipeline-visualization - Jenkins Pipeline and Data Visualization Dashboard
+https://learn.cisecurity.org/build-kits - CIS benchmark hardening and auditing 
