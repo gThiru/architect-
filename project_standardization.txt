@@ -1,0 +1,17 @@
+Project structure or components:
+  What is the base plartform component and how they integrated and how they have a dependency with other modules
+  What are the parent and child projects
+  What are the database dependencies? on upgradation, on minor/major upgradation
+  What are the communication flows between the modules
+  What is the core, queue, web, gateway modules and how they communicate each other?
+  
+Do we have a devops release dashboard?
+Are we maintaining any page for the released artifacts?
+Tools and technology used in the project
+
+Centralised POM file version across the modules or Monorepo model or a multirepo model
+Unified versioning across the modules 
+Auto upgradation of versions across the modules 
+Identify only a relesable projects
+Release manager for the product
+Versioning standards is semver format 0.0.0.0 for jave and 0.0.0-text.0 for Node/npm projects
